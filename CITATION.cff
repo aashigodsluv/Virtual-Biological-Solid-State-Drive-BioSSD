@@ -1,9 +1,14 @@
 cff-version: 1.2.0
 message: "If you use Virtual BioSSD in research, please cite the software and the accompanying BioSSD/UMDI research monograph."
-title: "Virtual BioSSD"
+title: "Virtual Biological Solid-State Drive (BioSSD)"
 version: "1.0.0"
 type: software
 authors:
   - family-names: "Ikongshul"
     given-names: "Abraham Ashindortiang"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22980120"
+repository-code: "https://github.com/aashigodsluv/Virtual-Biological-Solid-State-Drive-BioSSD"
+date-released: "2026-09-26"
 license: "PolyForm-Noncommercial-1.0.0"
