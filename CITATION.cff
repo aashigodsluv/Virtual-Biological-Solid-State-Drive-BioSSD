@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use Virtual BioSSD in research, please cite the software and the accompanying BioSSD/UMDI research monograph."
+title: "Virtual BioSSD"
+version: "1.0.0"
+type: software
+authors:
+  - family-names: "Ikongshul"
+    given-names: "Abraham Ashindortiang"
+license: "PolyForm-Noncommercial-1.0.0"
