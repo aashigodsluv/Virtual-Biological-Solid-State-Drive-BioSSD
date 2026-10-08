@@ -1,6 +1,6 @@
 # Virtual BioSSD v1.0.0
 
-**Virtual BioSSD** implements the host-Virtual BioSSD is the host-visible software implementation of the Biological Solid-State Drive (BioSSD) architecture through the Universal Molecular Digital Interface (UMDI). It exposes BioSSD as a persistent Windows storage volume while preserving the architecture's logical-block, channel, staging, verification, telemetry and READ/WRITE transaction model.
+**Virtual BioSSD** is the host-visible software implementation of the Biological Solid-State Drive (BioSSD) architecture through the Universal Molecular Digital Interface (UMDI). It exposes BioSSD as a persistent Windows storage volume while preserving the architecture's logical-block, channel, staging, verification, telemetry and READ/WRITE transaction model.
 
 Download and Quick Start
 
