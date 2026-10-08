@@ -1,6 +1,31 @@
 # Virtual BioSSD v1.0.0
 
-**Virtual BioSSD** implements the host-visible software embodiment of the Biological Solid-State Drive (BioSSD) architecture through the **Universal Molecular Digital Interface (UMDI)** control path. It exposes BioSSD as a persistent Windows storage volume while preserving the architecture's logical-block, channel, staging, verification, telemetry, and READ/WRITE transaction model.
+**Virtual BioSSD** implements the host-Virtual BioSSD is the host-visible software implementation of the Biological Solid-State Drive (BioSSD) architecture through the Universal Molecular Digital Interface (UMDI). It exposes BioSSD as a persistent Windows storage volume while preserving the architecture's logical-block, channel, staging, verification, telemetry and READ/WRITE transaction model.
+
+Download and Quick Start
+
+Windows packaged release
+
+Download the complete Virtual BioSSD v1.0.0 package:
+
+"Download Virtual BioSSD v1.0.0 (.zip)" (https://github.com/aashigodsluv/Virtual-Biological-Solid-State-Drive-BioSSD/releases/download/v1.0.0/Virtual.BioSSD.v1.0.0.zip)
+
+After downloading:
+
+1. Extract the ZIP file.
+2. Double-click:
+
+INSTALL_WINDOWS.bat
+
+The installer prepares the required Windows environment, including Python 3.11 x64, WinFsp and WinFSPy components.
+
+3. After installation, double-click:
+
+START_BIOSSD_DRIVE.bat
+
+Virtual BioSSD will automatically select an available drive letter, mount the BioSSD volume in Windows File Explorer, and open the Control & Diagnostics dashboard.
+
+"View all releases" (https://github.com/aashigodsluv/Virtual-Biological-Solid-State-Drive-BioSSD/releases)
 
 ## Device profile
 
